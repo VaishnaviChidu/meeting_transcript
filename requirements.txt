@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+langgraph
+langgraph-checkpoint-sqlite
+langchain-google-genai
+chromadb
+pytest

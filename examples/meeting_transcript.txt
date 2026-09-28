@@ -1,0 +1,42 @@
+Meeting: Project Atlas Weekly Planning
+Date: September 24, 2026
+
+Maya Chen: Thanks, everyone. The goal today is to finalize the pilot scope, confirm the launch decision, and assign the remaining follow-ups. Present are Maya, Leo, Priya, and Sam.
+
+Leo Martin: The current plan includes the dashboard and CSV export. The automated email summary is not ready, and including it would put the pilot at risk.
+
+Priya Shah: Agreed. I recommend we keep the pilot to the dashboard and CSV export, and move the email summary to a later phase.
+
+Sam Rivera: I agree. We should also cap the pilot at ten customer teams so support can handle it.
+
+Maya Chen: Decision: the pilot will include the dashboard and CSV export only, and will be limited to ten customer teams. The automated email summary is out of scope for this pilot.
+
+Leo Martin: I can update the rollout checklist to reflect the reduced scope. I’ll have that ready by October 2.
+
+Priya Shah: I’ll verify the CSV export against the sample data and send the results to the group by October 1.
+
+Sam Rivera: I can prepare the support FAQ. Maya, do we have a target date for that?
+
+Maya Chen: Let’s have the FAQ ready by October 5. Sam, please own that.
+
+Sam Rivera: Got it.
+
+Leo Martin: We still need someone to tell the customer success team about the ten-team cap. Jordan said they could handle the announcement, but I’m not sure if they meant Jordan Lee or Jordan from customer success.
+
+Priya Shah: I thought Maya was going to contact them after the last review.
+
+Maya Chen: I said I would check who should send it, not that I would send the announcement. Let’s clarify the owner before assigning it.
+
+Sam Rivera: There’s also the onboarding guide. I can review it, unless Priya already volunteered to do that?
+
+Priya Shah: I offered to check the CSV test results, not the onboarding guide. I can take the guide if nobody else has it.
+
+Maya Chen: I don’t remember assigning the guide. Leave the owner unconfirmed for now and ask in the project channel.
+
+Leo Martin: One more point: the pilot date depends on the security review. It may be ready in early October, but we don’t have a confirmed date yet.
+
+Maya Chen: Right. Decision: we will not announce a pilot launch date until the security review is complete. No date is being committed today.
+
+Priya Shah: I’ll post the CSV verification results by October 1, and I’ll wait for confirmation before taking the onboarding guide.
+
+Maya Chen: To recap: Leo owns the rollout checklist, Priya owns CSV verification, and Sam owns the support FAQ. The customer success announcement and onboarding guide need owner clarification. The launch date remains unconfirmed pending the security review.
